@@ -25,3 +25,11 @@ base de dados mas a qual não é necessáriamente obrigatória.
 Existem dois tipos, Conversational Boosting o qual é o melhor quando se esta utilizando IA e respostas Generativas. A outra opção é utilizar o FallBack.
 
 É possível e recomendado criar mensagens, por exemplo, informando ao usuário que não doi possível encontrar as informações desejadas. Nas mensagens de erro podesse configurar de varias formas como colocando para que seja puxado o nome do usuário caso a pessoa queira, passando instruções como entrar em contato com a empresa ou alguém, disparar ações com o Power Automate e etc.
+
+## Qualidade das Respostas
+
+As respostas podem ser boa ou ruins, pouco elaboradas ou muito bem elaboradas, o que vai determinar isso é a forma que o desenvolvedor vai configurar o Agente.
+
+Para fazer com que ele tenha uma melhor qualidade é habilitando na base de conhecimento as opções de utilizar a base de conhecimento geral do GPT4 assim como as bases de conhecimento próprias do desenvolvedor/empresa.
+
+Nas respostas generativas é possível também criar prompts próprias para cada respostas passando caso necessário variaveis, nestes campos onde são adicionados os prompts são aceitos até 8 mil caracteres ou 500 itens.
