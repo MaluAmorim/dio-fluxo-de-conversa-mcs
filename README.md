@@ -11,4 +11,6 @@ Durante a criação é preciso escolher o idioma no qual o Agente irá trabalhar
 
 Vale lembrar que é preciso fornecer uma descrição detalhada do propósito deste Agente pois tanto quem esta o criando como quem atuará nele futuramente conseguirá entender seu propósito, além disso é necessário inserir uma **Instrução** a qual determinará o que o Agente fará (informações que ele vai coletar, buscar e o que ele vai retornar ao usuário) e como agirá, é bom antes de criar esta instrução estudar um pouco sobre criação de prompts.
 
-## 
+Podesse também fazer algumas configurações avançadas como escolher uma solução para o seu Agente.
+
+## Configurando o Agente
