@@ -3,7 +3,7 @@ Criando um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Stu
 
 ## Criando um Agente
 
-É possível criar *Agentes* pré-prontos, ou do zero (em branco), mas no geral eles sempre teram configurações padrões ja prontas as quais não podemos excluir caso não seja compativel com o nosso objetivo, mas é possível desabilita-las.
+É possível criar **Agentes** pré-prontos, ou do zero (em branco), mas no geral eles sempre teram configurações padrões ja prontas as quais não podemos excluir caso não seja compativel com o nosso objetivo, mas é possível desabilita-las.
 
 Ao criar um Agente é importante lembrar que há algumas boas praticas que devem ser seguidas, algumas delas são, atribuir ao Agente um nome direto e acolhedor, para que o usuário se sinta confortavel e para que o nome seja explicativo para quem usará o Agente e para todos que forem trabalhar no Agente (efetuar melhorias e correções).
 
@@ -14,3 +14,7 @@ Vale lembrar que é preciso fornecer uma descrição detalhada do propósito des
 Podesse também fazer algumas configurações avançadas como escolher uma solução para o seu Agente.
 
 ## Configurando o Agente
+
+Com o Agente criado é hora de criar os **Tópicos**. Nos tópicos é possível adicionar frases de gatilho que seriam fases ou palavras que quando o usuário digitar o tópico terá uma ação especifica. É importane resaltar que não é ideal um tópico ter muitas frases de gatilho atribuidas a ele, e se for este o caso é necessário criar um novo tópico.
+
+É possível congurar para que ele possua uma resposta generativa, uma resposta mais fluida e desenvolvida utilizando IA. Nesta resposata generativa é preciso passar um input
